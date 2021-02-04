@@ -1,0 +1,7 @@
+14:11:05.932 [main] INFO  testNGListener.Logger.Log - =========== onStart :-Test===============
+14:11:05.943 [main] INFO  testNGListener.Logger.Log - Chrome Browser Launched
+14:11:08.599 [main] INFO  testNGListener.Logger.Log - LoginToOrangeHRM Started
+14:11:08.599 [main] INFO  testNGListener.Logger.Log - Verify-post login user land to Dashboard page
+14:11:25.889 [main] INFO  testNGListener.Logger.Log - LoginToOrangeHRM Passed
+14:11:26.762 [main] INFO  testNGListener.Logger.Log - Chrome Browser closed successfully
+14:11:26.802 [main] INFO  testNGListener.Logger.Log - =========== onFinish :-Test===============
